@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jokercn707
 - 👀 I’m interested in VI
-- 🌱 I’m currently learning yolovX
+- 🌱 I’m currently learning yolovx
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
